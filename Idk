@@ -1,0 +1,10 @@
+name = "Katarina"
+print("Hello, " + name + "! Welcome to coding.")
+echo "# super-duper-engine" >> README.md
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kattyl-rgb/super-duper-engine.git
+git push -u origin main
